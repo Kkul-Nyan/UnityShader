@@ -1,4 +1,4 @@
-Shader "Custom/ShaderFire"
+Shader "ShaderStudy/Test/Chapter3/ShaderFire"
 {
     Properties
     {
