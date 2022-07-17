@@ -15,6 +15,6 @@
       -3.UV와 Time으로 불표현
       -4.UV와 TIme으로 좀더 깔끔한 불표현
 ## Chapter4. Vertex 개념
-      -1.Vertex 적용 및  Vertex Color
+      -1.Vertex 적용 및 Vertex Color
       -2.Vertex와 lerp함수로 마스킹 
 ## Chapter5. SurfaceOutputStandard 
