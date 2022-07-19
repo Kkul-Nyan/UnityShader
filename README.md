@@ -29,7 +29,10 @@
       -1.Lambert
       -2.BlinnPhong
 ## Chapter7. 디지털라이트이론
+      -1.Normal Vector와 조명Vector의 내적연산
 ## Chapter8. Lambert 이론
+      -1.Lambert 기본 및 라이트 연산 
+      -2.하프램버트라이트 연산
 ## Chapter9. Rim 라이트
 ## Chapter10. BlinnPhong 스펙큘러
 ## Chapter11. NPR Rendering
