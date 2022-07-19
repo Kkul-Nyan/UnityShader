@@ -34,6 +34,9 @@
       -1.Lambert 기본 및 라이트 연산 
       -2.하프램버트라이트 연산
 ## Chapter9. Rim 라이트
+      -1.Frensel
+      -2.RimLight
+      -3.Hologram
 ## Chapter10. BlinnPhong 스펙큘러
 ## Chapter11. NPR Rendering
 ## Chapter12. Cubemap Reflection
