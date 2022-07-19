@@ -18,3 +18,5 @@
       -1.Vertex 적용 및 Vertex Color
       -2.Vertex와 lerp함수로 마스킹 
 ## Chapter5. SurfaceOutputStandard 
+      -1.Metallic과 Smoothness
+      -2.Normalmap
