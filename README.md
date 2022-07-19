@@ -25,3 +25,15 @@
       -2.Normalmap
       -3.Occlusion
       -4.Complex(쉐이더를 복합적으로 섞어보기)
+## Chapter6. Unity other Lighting
+      -1.Lambert
+      -2.BlinnPhong
+## Chapter7. 디지털라이트이론
+## Chapter8. Lambert 이론
+## Chapter9. Rim 라이트
+## Chapter10. BlinnPhong 스펙큘러
+## Chapter11. NPR Rendering
+## Chapter12. Cubemap Reflection
+## Chapter13. Alpha
+## Chapter14. Custom Control Alpha Blending
+## Chapter15. Try to Apply
