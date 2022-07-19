@@ -1,5 +1,8 @@
 # Unity Shader Training
-
+      사용한 유니티에셋
+      -1.Stylized Grass Texture
+      -2.Terrain Textures Pack Free
+      -3.Yughues Free Ground Materials
 ## Chapter1.서피스쉐이더 개념
       -1.RGB 및 알파개념 및 Shader구조 
       -2.RGB 함수에 적응
