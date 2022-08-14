@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{31BA4E81-593F-668A-CDBF-D3A3C363F82B}|">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Chapter10/Shader/CustomLight.shader">
     <Files>
-      <File FileName="Assets/Chapter10/Shader/CustomLight.shader" Line="62" Column="40" />
+      <File FileName="Assets/Chapter10/Shader/CustomLight.shader" Line="12" Column="6" />
+      <File FileName="Assets/Chapter8/Shader/ShaderCustomLightBasic.shader" Line="14" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,6 +24,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="bd7ce564-eed2-4b79-a830-8279078494f1" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="0253ce11-edb7-4cee-9f83-fb88f17f848c" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
