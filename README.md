@@ -43,3 +43,5 @@
 ## Chapter13. Alpha
 ## Chapter14. Custom Control Alpha Blending
 ## Chapter15. Try to Apply
+## Dot
+       - 필요 Dot그림 제작
